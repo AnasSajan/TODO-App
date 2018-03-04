@@ -1,2 +1,2 @@
-Add and Deletes the task
+Adds and Deletes a task
 # TODO_App
